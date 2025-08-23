@@ -1,0 +1,2 @@
+# Plaudit
+OJS Plaudit Plugin
