@@ -4,6 +4,8 @@ This plugin adds the [Plaudit](https://plaudit.pub/) widget to the submission de
 
 An integration token is required in order for the plugin to work properly. [See how to get one](#obtaining-an-integration-token)
 
+## Version 2.0.1.0
+
 ## Compatibility
 
 This release has been tested with:
@@ -45,4 +47,4 @@ If you dont have one already, you can folow the [Plaudit instructions on how to 
 # License
 __This plugin is licensed under the GNU General Public License v3.0__
 
-__Copyright (c) 2022-2024 Lepidus Tecnologia__
+__Copyright (c) 2022-2025 Lepidus Tecnologia & Saddam__
